@@ -1,6 +1,6 @@
 # shopzon
 
-React-redux toolkit ile yapılmış bir uygulamadır.gelişime açıktır.
+- React-redux toolkit ile yapılmış bir uygulamadır.gelişime açıktır.
 
 # Ekran Kaydı
 
